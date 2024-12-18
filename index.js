@@ -66,7 +66,7 @@ function startOver(){
     userPattern = []
     level = 0
     started = false
-    $('h1').text('Suga Tergel')
+    $('h1').text('Game Over. Press Any Key to Restart')
 
 }
 
